@@ -8,13 +8,14 @@ Adobe Experience Manager Blogs
 ## 3rd party
 ####**Favourites**
 * [Experiencing Adobe Experience Manger - Day CQ](http://experience-aem.blogspot.com/2013/08/in-blog-experiencing-adobe-experience.html)
-* [Things on a content management system](http://cqdump.wordpress.com/)* [Scott's Digital Community](http://scottsdigitalcommunity.blogspot.ca/)
+* [Things on a content management system](http://cqdump.wordpress.com/)
 * [CQ-OPS](http://cq-ops.tumblr.com/)
 * [Daniel Klco's Blog](http://www.danklco.com/)
 * [Six Dimensions](http://labs.sixdimensions.com/blog/)
 * [Wem Blog](http://www.wemblog.com/)
 * [AEM Stuff](http://www.aemstuff.com/)
 * [CQ Blueprints](http://www.cqblueprints.com/)
+* [Scott's Digital Community](http://scottsdigitalcommunity.blogspot.ca/)
 
 ####**Rarely Updated**
 * [The Real CQ](http://therealcq.blogspot.de/)

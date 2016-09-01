@@ -1,9 +1,10 @@
 Aggregator of various useful Adobe Experience Manager (AEM) links
 =========
 
-* [Informational resources](aem-links.md)
-* [AEM tips and tricks](aem-cheatsheet.md)
-* [CURL commands](curl-cheatsheet.md)
+* [Informational Resources](aem-links.md)
+* [AEM Blogs](aem-blogs.md)
+* [AEM Tips and Tricks](aem-cheatsheet.md)
+* [CURL Commands](curl-cheatsheet.md)
 * [Query Builder](querybuilder-cheatsheet.md)
 
 ----------
