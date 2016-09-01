@@ -23,52 +23,8 @@ Adobe Experience Manager Links
 * [6.2](http://docs.adobe.com/content/docs/en/aem/6-2.html)
  * [XWidgets](https://docs.adobe.com/docs/en/aem/6-2/develop/components/xtypes.html)
 
-## Blogs (Adobe)
- * [Experience Delivers](http://experiencedelivers.adobe.com/cemblog/en/experiencedelivers.html)
- * [Adobe Content Management](http://blogs.adobe.com/contentmanagement/)
 
-#### Screencasts, Podcasts, Presentations
-* [CQ Gems on Adobe Experience Manager](http://dev.day.com/gems)
-* [AEM Casts](http://www.aemcasts.com/) -  Micro Topics on AEM and AEM Delivery
-* [Adobe Experience Manager Podcast](http://aempodcast.com/)
-* [AEM @ SlideShare](http://www.slideshare.net/search/slideshow?q=adobe+aem)
-* [Replication deep dive](http://www.slideshare.net/mwmd/adobe-experience-manager-replication-deep-dive)
-* [From Eventing to Job Processing](http://www.slideshare.net/cziegeler/adobe-aem-from-eventing-to-job-processing)
-
-
-## Blogs (3rd party)
-####**Favourites**
-* [Experiencing Adobe Experience Manger - Day CQ](http://experience-aem.blogspot.com/2013/08/in-blog-experiencing-adobe-experience.html)
-* [Things on a content management system](http://cqdump.wordpress.com/)* [Scott's Digital Community](http://scottsdigitalcommunity.blogspot.ca/)
-* [CQ-OPS](http://cq-ops.tumblr.com/)
-* [Daniel Klco's Blog](http://www.danklco.com/)
-* [Six Dimensions](http://labs.sixdimensions.com/blog/)
-* [Wem Blog](http://www.wemblog.com/)
-* [AEM Stuff](http://www.aemstuff.com/)
-* [CQ Blueprints](http://www.cqblueprints.com/)
-
-####**Rarely Updated**
-* [The Real CQ](http://therealcq.blogspot.de/)
-* [Code Monkey](http://blog.kristianwright.com/)
-* [cqwemblog](http://cqwemblog.wordpress.com/)
-* [AEM Club](http://adobeaemclub.com/)
-* [Answers to Frequently Asked Questions in AEM](http://aemfaq.blogspot.com.au/)
-* [DIGITAL PROJECTIONS](https://chanchal.wordpress.com/)
-* [CQ5 | AEM6 Solutions and Suggestions](http://aem6solutions.blogspot.com.au/)
-* [It's Gonna be Legendary](http://adobeaem-learneasycodeeasy.blogspot.ru/)
-* [me.toString](http://tostring.me/category/adobe-experience-manager-cq/)
-
-
-####Abandoned (kept for now, will be deleted soon)
-* [Adobe CQ (by Himanshu Jain )](http://cqinnovator.blogspot.in/?view=classic)
-* [Cititech Blog](http://www.citytechinc.com/us/en/blog.html)
-* [A WCM journey with Day/Adobe CQ](https://balawcm.wordpress.com/)
-* [Eyelock](http://www.eyelock.net/)
-* [Adobe Experience Manager Blog](http://aemtips.blogspot.com.au/)
-* [AEM Development Mastery](http://www.aemmastery.com)
-
-
-## Programming Languages and Frameworks
+## Technologies
 ### Java
 * [Google Java Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 * [Expression Language (EL)](http://docs.oracle.com/javaee/1.4/tutorial/doc/JSPIntro7.html)
@@ -87,7 +43,7 @@ Adobe Experience Manager Links
 * [Sling](http://sling.apache.org/)
 * [Apache Felix](http://felix.apache.org/)
 
-#### Apache Lucene
+### Apache Lucene
 * [Apache Lucene](http://lucene.apache.org/core/3_0_3/index.html)
 * [Apache Lucene - Scoring](http://lucene.apache.org/core/3_0_3/scoring.html)
 
@@ -133,33 +89,19 @@ Adobe Experience Manager Links
 
 ----------------------------------------
 
-### Helpful Specific Articles
+## Certification
+* [Adobe Certified Portal](https://i7lp.integral7.com/durango/do/login?ownername=adobe)
+* [Adobe ACE Finder](https://training.adobe.com/certification/ace-finder.html)
+* [Adobe Certification Exams](https://training.adobe.com/certification/exams.html)
 
-#### FAQs, Knowledge Base
-* [All Adobe Knowledge Base Articles](https://helpx.adobe.com/experience-manager/kb/index/full_kb_list.html)
-* [CRX Knowledge Base Articles](https://helpx.adobe.com/experience-manager/kb/index/crx.html)
-* [Replication](https://helpx.adobe.com/experience-manager/kb/experience-manager-replication-faqs.html)
-* [Workflows](https://helpx.adobe.com/marketing-cloud/experience-manager/faq_aem.html#workflows)
-* [Dispatcher](https://helpx.adobe.com/experience-manager/using/dispatcher-faq.html)
-* [LDAP](https://helpx.adobe.com/experience-manager/using/faq-integrating-cq-ldap.html)
-* [The most complete list of -XX options for Java JVM](http://stas-blogspot.blogspot.ca/2011/07/most-complete-list-of-xx-options-for.html)
-
-#### Workflows
-* [CQ5 OOTB workflow processes](http://blogs.adobe.com/contentmanagement/2013/05/13/cq-5-6-out-of-the-box-workflow-processes-and-what-they-docan-be-used-for/)
-
-#### Security
-* [Tighten Up Security in Production CQ Environment](http://www.hsufengko.com/home/tighten-up-security-in-production-cq-environment)
-
-#### Certification
+####**Certification articles**
 * [Adobe WEM / CQ Tips and Tricks (Google Doc)](https://docs.google.com/document/d/1FBvBxyKequyP32d6Zfh6_lmHKLO1mMN4E6Vgu0uE3Z4/edit?pli=1#heading=h.ps4m4afefi7l)
 * [ACE: AEM 6.0 Architect experience and Certification Path](http://aemfaq.blogspot.com/2014/12/ace-aem-60-architect-experience-and.html)
+* [AEM CQ5 Tutorials](http://www.aemcq5tutorials.com/)
 
-### Other
-* [AEM Capability Matrix](https://docs.google.com/spreadsheets/d/11sESEtCSf45j5JWknVLE3DJt9NOJaDHfeBBJFOsxt5o/edit?usp=sharing) - list AEM Capabilities, Features and OOTB Component
-* [Adobe CQ/AEM Support Matrix](https://www.adobe.com/support/products/enterprise/eol/eol_matrix.html#cq)
+----------------------------------------
 
-
-### Events
+## Events
 * [Adobe's AEM Technologists](https://communities.adobe.com/en/communities/aem_technologistsdevelopersarchitects/home.html)
 * [Circuit](http://www.circuitdevcon.com)
 * [Adobe Summit](http://summit.adobe.com/)
@@ -168,7 +110,7 @@ Adobe Experience Manager Links
 * There are a lof of [meetups](http://www.meetup.com/find/) all over the world. Come join us in [San Francisco](http://www.meetup.com/Adobe-Experience-Manager-Adobe-Marketing-Cloud).
 
 
-### Forums, Help
+## Forums, Help
 * [Adobe CQ @ Reddit](http://www.reddit.com/r/adobecq/)
 * [Official Adobe Experience Manager Forum](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/aem)
