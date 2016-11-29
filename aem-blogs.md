@@ -16,6 +16,7 @@ Adobe Experience Manager Blogs
 * [AEM Stuff](http://www.aemstuff.com/)
 * [CQ Blueprints](http://www.cqblueprints.com/)
 * [Scott's Digital Community](http://scottsdigitalcommunity.blogspot.ca/)
+* [Terra Beata](https://www.terrabeata.com/)
 
 ####**Rarely Updated**
 * [The Real CQ](http://therealcq.blogspot.de/)

@@ -38,6 +38,7 @@ Adobe Experience Manager Links
 * [David's Model](http://wiki.apache.org/jackrabbit/DavidsModel)
 * [Jackrabbit Oak](http://jackrabbit.apache.org/oak/)
 * [Oak Index Definition Generator](http://oakutils.appspot.com/generate/index)
+* [Oak Index Cheatsheat](http://www.aemstuff.com/blogs/feb/aemindexcheatsheat.html)
 
 ### Apache Sling
 * [Sling](http://sling.apache.org/)
@@ -64,7 +65,7 @@ Adobe Experience Manager Links
 * [QueryBuilder Debugger](http://localhost:4502/libs/cq/search/content/querydebug.html)
 * [XPath/SQL search](http://localhost:4502/crx/explorer/ui/search.jsp)
 * [CQ5 Translator](http://localhost:4502/libs/cq/i18n/translator.html)
-* [Dump Libs](http://localhost:4502/libs/cq/ui/content/dumplibs.html)
+* [Dump ClientLibs](http://localhost:4502/libs/cq/ui/content/dumplibs.html)
 * [DAM WebDav](http://localhost:4502/crx/repository/crx.default/content/dam/)
 * [CQ5 AntiSamy configuration XSS](http://localhost:4502/libs/cq/xssprotection/config.xml)
 * [ContextHub Diagnostics](http://localhost:4502/etc/cloudsettings/default/contexthub.diagnostics.html)
@@ -74,6 +75,7 @@ Adobe Experience Manager Links
 
 ## Third-party Tools
 
+* [AEM Groovy Console](https://github.com/OlsonDigital/cq-groovy-console)
 * [AEM Demo Machine](https://github.com/Adobe-Marketing-Cloud/aem-demo-machine/wiki)
 * [Adobe Marketing Cloud Open Developer](http://adobe-marketing-cloud.github.io/) - directory for tools
 * [Access Control Tool](https://github.com/Netcentric/accesscontroltool)
